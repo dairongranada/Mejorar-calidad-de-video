@@ -1,7 +1,7 @@
 # 🔥 Mejora de Videos con VapourSynth + Real-ESRGAN
 
 Este proyecto explica paso a paso cómo usar **VapourSynth** junto con **modelos Real-ESRGAN** para mejorar videos (escalarlos, limpiarlos y darles más calidad).  
-Todo es **gratis** y puedes hacerlo en tu PC.
+Todo es **gratis** 
 
 ---
 
