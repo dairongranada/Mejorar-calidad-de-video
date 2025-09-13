@@ -1,18 +1,16 @@
-# 🔥 Mejora de Videos con VapourSynth + Real-ESRGAN
+# 🔥 Mejora de Videos en Windows con VapourSynth + Real-ESRGAN
 
-Este proyecto explica paso a paso cómo usar **VapourSynth** junto con **modelos Real-ESRGAN** para mejorar videos (escalarlos, limpiarlos y darles más calidad).  
-Todo es **gratis** 
+Este proyecto explica cómo usar **VapourSynth** junto con **modelos Real-ESRGAN** para mejorar la calidad de videos en **Windows** (escalarlos, limpiarlos y hacerlos más nítidos).  
+Todo es **gratis** y funciona con CPU o GPU (NVIDIA recomendado).
 
 ---
 
-## 📦 Requisitos
+## 📦 Requisitos en Windows
 
-Antes de empezar necesitas instalar lo siguiente:
-
-- [Python 3.10+](https://www.python.org/downloads/)
-- [VapourSynth](http://www.vapoursynth.com/)
-- [FFmpeg](https://ffmpeg.org/download.html) (añadirlo a la variable de entorno PATH)
-- Git (para clonar repositorios)
-- pip actualizado:
-  ```bash
-  python -m pip install --upgrade pip
+1. [Python 3.10+](https://www.python.org/downloads/windows/)
+2. [VapourSynth para Windows](http://www.vapoursynth.com/)
+3. [FFmpeg para Windows](https://www.gyan.dev/ffmpeg/builds/) → Añadir `bin` al **PATH**.
+4. [Git para Windows](https://git-scm.com/download/win)
+5. pip actualizado:
+   ```powershell
+   python -m pip install --upgrade pip
